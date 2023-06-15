@@ -1,1 +1,2 @@
 # Screen_Analyser_An_excel_dashboard
+              In this project I have created a static dashboard in MS Excel 365.The data that is present in it is a 21-day report of screen usage of a user. I took no of notifications received,no of unlocks and screen time total in hrs and it is a daily record. I have analyzed the data viz averages,totals and maximums and some relations among them.This is the very firt project I did in MS Excel in my data career.
